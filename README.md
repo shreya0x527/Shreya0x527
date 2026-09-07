@@ -46,4 +46,4 @@ To become a skilled Software Developer and work on real-world projects that help
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile.
