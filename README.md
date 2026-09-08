@@ -8,7 +8,7 @@
 
 🌱 Currently learning and improving my skills in Java, DSA, Spring Boot, SQL and NLP.
 
-🚀 I'm actively looking for internship opportunities where I can learn, contribute and gain real-world development experience.
+🚀 I'm actively looking for Internship opportunities where I can learn, contribute and gain real-world development experience.
 
 ---
 
