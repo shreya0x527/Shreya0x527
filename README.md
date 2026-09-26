@@ -1,20 +1,20 @@
 # Hi, I'm Shreya Singh 👋
 
-### B.Tech CSE Student | Java | DSA | Web Development | Spring Boot | AI/ML
+### B.Tech CSE Student | Java | C++ | DSA | Web Development | Spring Boot | AI/ML
 
 🎓 I'm a 3rd-year B.Tech Computer Science student at NIET.
 
-💻 I'm interested in Software Development, Web Development and AI/ML.
+💻 I'm interested in Software Development, Web Development, and AI/ML.
 
-🌱 Currently learning and improving my skills in Java, DSA, Spring Boot, SQL and NLP.
+🌱 Currently learning and improving my skills in **Java, C++, Data Structures & Algorithms, Spring Boot, SQL, and NLP**.
 
-🚀 I'm actively looking for Internship opportunities where I can learn, contribute and gain real-world development experience.
+🚀 I'm actively looking for internship opportunities where I can learn, contribute, and gain real-world development experience.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Java, Python, SQL
+- **Languages:** Java, C++, Python, SQL
 - **Web Development:** HTML, CSS, JavaScript
 - **Backend:** Spring Boot
 - **Database:** MySQL
@@ -25,7 +25,7 @@
 
 ## 📌 What I'm Currently Working On
 
-- 📚 Improving Data Structures & Algorithms with Java
+- 📚 Improving **Data Structures & Algorithms with Java and C++**
 - 🌐 Building Web Development projects
 - ☕ Learning Spring Boot and backend development
 - 🤖 Exploring AI/ML and NLP
@@ -41,8 +41,8 @@ To become a skilled Software Developer and work on real-world projects that help
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/shreya-singh-865967357/)
-- 🐙 [GitHub](https://github.com/shreya0x527)
+- 💼 LinkedIn: www.linkedin.com/in/shreya-singh-865967357
+- 🐙 GitHub: github.com/shreya0x527
 
 ---
 
