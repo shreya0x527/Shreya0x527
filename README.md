@@ -1,4 +1,4 @@
-# Hi, I'm Shreya Singh 👋
+Hi, I'm Shreya Singh 👋
 
 ### B.Tech CSE Student | Java | C++ | DSA | Web Development | Spring Boot | AI/ML
 
