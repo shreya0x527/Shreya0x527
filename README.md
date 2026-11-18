@@ -1,6 +1,6 @@
 Hi, I'm Shreya Singh 
 
-### B.Tech CSE Student | Java | C++ | DSA | Web Development | Spring Boot | AI/ML
+### B.Tech CSE Student | Java | C++ | DSA | Web development | Spring Boot | AI/ML
 
 🎓 I'm a 3rd-year B.Tech Computer Science student at NIET.
 
