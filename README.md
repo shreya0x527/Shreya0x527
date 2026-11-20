@@ -29,7 +29,7 @@ Hi, I'm Shreya Singh
 - 🌐 Building Web Development projects
 - ☕ Learning Spring Boot and backend development
 - 🤖 Exploring AI/ML and NLP
-- 💼 Preparing for Software Development internships and placements
+- 💼 Preparing for Software Development Internships and placements
 
 ---
 
