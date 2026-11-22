@@ -27,7 +27,7 @@ Hi, I'm Shreya Singh
 
 - 📚 Improving **Data Structures & Algorithms with Java and C++**
 - 🌐 Building Web Development projects
-- ☕ Learning Spring Boot and backend development
+- ☕ Learning Spring boot and backend development
 - 🤖 Exploring AI/ML and NLP
 - 💼 Preparing for Software Development internships and placements
 
