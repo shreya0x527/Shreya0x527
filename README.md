@@ -19,7 +19,7 @@ Hi, I'm Shreya Singh
 - **Backend:** Spring Boot
 - **Database:** MySQL
 - **AI/ML & NLP:** Python, NLTK
-- **Tools:** Git, GitHub, eclipse, VS Code
+- **Tools:** Git, GitHub, Eclipse, VS Code
 
 ---
 
