@@ -4,7 +4,7 @@ Hi, I'm Shreya Singh
 
 🎓 I'm a 3rd-year B.Tech Computer Science student at NIET.
 
-💻 I'm interested in Software Development, Web Development, and AI/ML.
+💻 I'm interested in Software Development, Web development, and AI/ML.
 
 🌱 Currently learning and improving my skills in **Java, C++, Data Structures & Algorithms, Spring Boot, SQL, and NLP**.
 
